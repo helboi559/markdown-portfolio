@@ -1,19 +1,20 @@
-# Markdown Portfolio
+# Juan Ramirez
+![My Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtgKV5yRPhVcPkJfZXcjczqPaQU2jbLdF0PKjs7-_8ox0xJ6cbysjUPjNy2y_xxOK51BM&usqp=CAU "Dragon")
 
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
+[My first project](https://helboi559.github.io/)
 
-If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+## Things I enjoy doing
+* Playing Video Games
+* Swimming
+* Traveling
 
-### Instructions
+### My Goals for 2022
+1. Learn HTML
+2. Learn CSS
+3. Learn Javascript
+4. Become job ready by the end of 2022
 
-1. Start by forking this repository
-1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
-    * At least one picture
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
-1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
-1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
-2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
-3. Finally, turn in a link to your repository on Populi
+#### Something I listen to remain focused.
+<a href="https://www.youtube.com/watch?v=M5QY2_8704o" target="_blank"><img src="http://img.youtube.com/vi/M5QY2_8704o/0.jpg" 
+alt="Coding Music" width="240" height="180" border="10" /></a>
+
